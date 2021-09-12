@@ -267,7 +267,7 @@ sales_df_v2 %>%
   xlab("Month")
 ```
 
-![](sales_data_analysis_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](unnamed-chunk-3-1.png)<!-- -->
 
 ### A1.
 
@@ -349,7 +349,7 @@ sales_df_v2 %>%
   xlab("City")
 ```
 
-![](sales_data_analysis_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](unnamed-chunk-4-1.png)<!-- -->
 
 ### A2.
 
@@ -389,7 +389,7 @@ sales_df_v2 %>%
   xlab("Hour")
 ```
 
-![](sales_data_analysis_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](unnamed-chunk-5-1.png)<!-- -->
 
 ### A3.
 
